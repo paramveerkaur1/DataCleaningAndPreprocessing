@@ -12,7 +12,7 @@ Scikit-Learn
 # Dataset
 Titanic Dataset (Kaggle: https://www.kaggle.com/datasets/yasserh/titanic-dataset )
 
-# Task Breakdown
+# Steps
 
 1. Import & Explore the Dataset
 
